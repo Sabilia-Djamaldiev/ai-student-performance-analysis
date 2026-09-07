@@ -2,7 +2,7 @@
 library(tidyverse)
 
 # Import the dataset containing student information
-data <- read_csv("~/M1 BDEEM/Data analysis/ai_student.csv")
+data <- read_csv("data/ai_student.csv")
 
 # Check the names of the variables to ensure correct import
 names(data)
