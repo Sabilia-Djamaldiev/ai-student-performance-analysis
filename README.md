@@ -50,9 +50,19 @@ The dataset is not included directly in this repository. The R script documents 
 
 ## Key findings
 
+### AI users vs. non-users
+
 The descriptive analysis showed very similar average final scores between students who reported using AI tools and those who did not.
 
-The regression analysis also found no statistically significant association between AI usage time and final academic score after accounting for daily study time.
+![Final Academic Score by AI Tool Usage](Figures/Figure%202.jpeg)
+
+### AI usage intensity
+
+The relationship between AI usage time and final academic score appears very weak, with substantial variation in academic performance across different levels of AI usage.
+
+![AI Usage Time and Final Academic Score](Figures/Figure%203.jpeg)
+
+The regression analysis found no statistically significant association between AI usage time and final academic score after accounting for daily study time.
 
 These results highlight the importance of distinguishing statistical association from causal interpretation when analysing observational data.
 
